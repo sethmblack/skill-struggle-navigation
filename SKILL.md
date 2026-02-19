@@ -4,7 +4,7 @@ description: Provide psychological support and practical guidance for leaders ex
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5094
+  version: 1.0.5095
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - struggle-navigation
